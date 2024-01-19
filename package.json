@@ -44,7 +44,7 @@
     "rollup-plugin-node-resolve": "^3.0.0"
   },
   "dependencies": {
-    "acorn": "^5.1.1",
+    "acorn": "^8.11.2",
     "astring": "^1.0.5"
   }
 }
